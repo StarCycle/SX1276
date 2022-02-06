@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>DSPI</project>
+		<project>CodeCoverage</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
